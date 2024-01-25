@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scarlet Websocket Implemenation</string>
+    <string name="btn_send">Send</string>
+</resources>

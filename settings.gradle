@@ -1,0 +1,2 @@
+rootProject.name = "scarlet websocket Implementation"
+include ':app'
